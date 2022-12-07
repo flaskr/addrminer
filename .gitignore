@@ -22,4 +22,4 @@
 go.work
 
 # Output from address mining
-addresses.txt
+addresses.csv
